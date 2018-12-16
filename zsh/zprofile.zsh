@@ -40,7 +40,7 @@ path=(
   $path
 )
 
-export PATH="$HOME/.config/yarn/global/node_modules/.bin:$PATH"
+export PATH="$HOME/.dotfiles/yarn/global/node_modules/.bin:$PATH"
 
 # Set the default Less options.
 # Mouse-wheel scrolling has been disabled by -X (disable screen clearing).

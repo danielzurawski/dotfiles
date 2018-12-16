@@ -13,15 +13,15 @@ compinit
 # source zpresto
 source "${ZDOTDIR:-$HOME}/.zprezto/init.zsh"
 # source the blox prompt + customizations
-source "${ZDOTDIR:-$HOME}/.config/zsh/prompt.zsh"
+source "${ZDOTDIR:-$HOME}/.dotfiles/zsh/prompt.zsh"
 # https://github.com/zsh-users/zsh-autosuggestions
-source "${ZDOTDIR:-$HOME}/.config/zsh/zsh-autosuggestions/zsh-autosuggestions.zsh"
+source "${ZDOTDIR:-$HOME}/.dotfiles/zsh/zsh-autosuggestions/zsh-autosuggestions.zsh"
 # source nvm as a zsh plugin (https://github.com/lukechilds/zsh-nvm)
-source "${ZDOTDIR:-$HOME}/.config/zsh/zsh-nvm/zsh-nvm.plugin.zsh"
+source "${ZDOTDIR:-$HOME}/.dotfiles/zsh/zsh-nvm/zsh-nvm.plugin.zsh"
 
 # custom config
-source "${ZDOTDIR:-$HOME}/.config/zsh/aliases.zsh"
-source "${ZDOTDIR:-$HOME}/.config/zsh/functions.zsh"
-source "${ZDOTDIR:-$HOME}/.config/zsh/keybindings.zsh"
-source "${ZDOTDIR:-$HOME}/.config/zsh/git.zsh"
-source "${ZDOTDIR:-$HOME}/.config/zsh/docker.zsh"
+source "${ZDOTDIR:-$HOME}/.dotfiles/zsh/aliases.zsh"
+source "${ZDOTDIR:-$HOME}/.dotfiles/zsh/functions.zsh"
+source "${ZDOTDIR:-$HOME}/.dotfiles/zsh/keybindings.zsh"
+source "${ZDOTDIR:-$HOME}/.dotfiles/zsh/git.zsh"
+source "${ZDOTDIR:-$HOME}/.dotfiles/zsh/docker.zsh"

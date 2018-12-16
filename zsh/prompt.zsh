@@ -1,5 +1,5 @@
 # https://github.com/yardnsm/blox-zsh-theme
-source "${ZDOTDIR:-$HOME}/.config/zsh/blox-zsh-theme/blox.zsh"
+source "${ZDOTDIR:-$HOME}/.dotfiles/zsh/blox-zsh-theme/blox.zsh"
 
 BLOX_SEG__UPPER_LEFT=( host cwd git )
 # time disabled
