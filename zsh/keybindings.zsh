@@ -1,6 +1,6 @@
 # http://zsh.sourceforge.net/Doc/Release/Zsh-Line-Editor.html
 
-bindkey -v
+bindkey -e
 
 # delay between switching modes (in ms) <-- keep this above 10 for sequences like 'jk' to work
 export KEYTIMEOUT=10
