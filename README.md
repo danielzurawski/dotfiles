@@ -1,11 +1,11 @@
-### `~/.config`
+### `~/.dotfiles`
 
 My setup for OS X, tmux, zsh, git, VS Code, JavaScript
 
-Copy this into `~/.config`. If it's not a brand new machine you probably already have some of the files/folders. You can replace them or merge them together.
+Copy this into `~/dotfiles`. If it's not a brand new machine you probably already have some of the files/folders. You can replace them or merge them together.
 
 ```sh
-git clone --recursive git@github.com:danielzurawski/dotfiles.git ~/.config
+git clone --recursive git@github.com:danielzurawski/dotfiles.git ~/.dotfiles
 ```
 
 #### Install script
